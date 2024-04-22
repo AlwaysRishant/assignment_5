@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/assignment_5/static/css/main.9f9bb4bf.css",
+    "main.js": "/assignment_5/static/js/main.6320000b.js",
+    "static/js/453.ee81e561.chunk.js": "/assignment_5/static/js/453.ee81e561.chunk.js",
+    "static/media/pexels-mcraftpix-21014.jpg": "/assignment_5/static/media/pexels-mcraftpix-21014.b0fe810f7573572e426a.jpg",
+    "static/media/image9.png": "/assignment_5/static/media/image9.2d46f96844e89855dabe.png",
+    "static/media/image13.png": "/assignment_5/static/media/image13.b3d685727a148fdd114c.png",
+    "static/media/image10.png": "/assignment_5/static/media/image10.4655b50df306464cc63b.png",
+    "static/media/image14.png": "/assignment_5/static/media/image14.3c70ddc3e8901b0fa1fe.png",
+    "static/media/image12.png": "/assignment_5/static/media/image12.999c5a501447f3193650.png",
+    "static/media/image11.png": "/assignment_5/static/media/image11.8f73ef90b7b93bc07abc.png",
+    "static/media/image15": "/assignment_5/static/media/image15.560497bc7e547f572c05",
+    "static/media/image4.jpeg": "/assignment_5/static/media/image4.934cc6f2acb134938ab2.jpeg",
+    "static/media/jasprit.webp": "/assignment_5/static/media/jasprit.7b3086922337757e43c3.webp",
+    "static/media/rohit.webp": "/assignment_5/static/media/rohit.942d8a813595136ba2aa.webp",
+    "static/media/image7.jpeg": "/assignment_5/static/media/image7.b8c811e48877d4d8890a.jpeg",
+    "static/media/dhoni.webp": "/assignment_5/static/media/dhoni.663d5a1ac19582d8a4e5.webp",
+    "static/media/virat.webp": "/assignment_5/static/media/virat.81e6a2782c98d6cb1346.webp",
+    "static/media/slick.svg": "/assignment_5/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/assignment_5/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/assignment_5/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/assignment_5/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/assignment_5/index.html",
+    "main.9f9bb4bf.css.map": "/assignment_5/static/css/main.9f9bb4bf.css.map",
+    "main.6320000b.js.map": "/assignment_5/static/js/main.6320000b.js.map",
+    "453.ee81e561.chunk.js.map": "/assignment_5/static/js/453.ee81e561.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f9bb4bf.css",
+    "static/js/main.6320000b.js"
+  ]
+}
